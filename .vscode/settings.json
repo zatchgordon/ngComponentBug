@@ -1,0 +1,12 @@
+{
+    "ngComponents.componentGlobs": [
+        "**/*.{component, directive}.ts"
+    ],
+    "ngComponents.controllerGlobs": [
+        "**/*.{component, directive}.ts"
+    ],
+    "ngComponents.htmlGlobs": [
+        "**/*.{component, directive}.html"
+    ],
+    "ngComponents.logging.verbose": true
+}

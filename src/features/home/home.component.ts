@@ -1,12 +1,13 @@
 class homeController implements ng.IController {
-    welcomeWords: string;
+    helloWords: string;
+    coolio: string;
     /**@ngInject */
     constructor() {
 
     }
 
     $onInit() {
-        this.welcomeWords = "Welcome text from home component";
+        this.helloWords = "Welcome text from home component";
     }
 }
 

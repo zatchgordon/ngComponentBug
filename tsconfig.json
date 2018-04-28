@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "none",
+    "sourceMap": true,
+    "watch": true
+  },
+  "exclude": [
+    "packages",
+    "node_modules"
+  ]
+}
